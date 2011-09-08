@@ -14,3 +14,5 @@ println "${programmingPoints} minus 7 bonus points is ${subtract(programmingPoin
 println "${programmingPoints} plus 3 bonus points is ${sum(programmingPoints, 3)}"
 //New feature!
 println "${programmingPoints} plus 5 bonus points is ${sum(programmingPoints, 5)}"
+//New feature 2
+println "${programmingPoints} plus 6 bonus points is ${sum(programmingPoints, 6)}"
