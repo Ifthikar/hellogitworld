@@ -7,6 +7,7 @@ def name = "Manfred"
 int programmingPoints = 1000
 
 println "Hello ${name}. Hola in Spanish"
+
 println "${name} has at least ${programmingPoints} programming points."
 println "${programmingPoints} squared is ${square(programmingPoints)}"
 println "${programmingPoints} divided by 2 bonus points is ${divide(programmingPoints, 2)}"
