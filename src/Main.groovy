@@ -5,8 +5,9 @@ import static Sum.sum
 
 def name = "Manfred"
 <<<<<<< HEAD
+
 int programmingPoints = 3399
->>>>>>> d0789901b2594c5c378f687a1ea08cba4fc7399a
+
 
 println "Hello ${name}. How are you?"
 println "${name} has at least ${programmingPoints} programming points."
