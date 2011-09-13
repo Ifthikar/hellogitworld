@@ -4,15 +4,9 @@ import static Subtract.subtract
 import static Sum.sum
 
 def name = "Manfred"
-<<<<<<< HEAD
-
 int programmingPoints = 3399
 
-println "Hello ${name}. How are you?"
-=======
-println "Hello ${name}. Hola in Spanish"
-
->>>>>>> 6819549f262ea1bae4c7512632e00ca008891f3a
+println "Hello ${name}. Hola in Spanish."
 println "${name} has at least ${programmingPoints} programming points."
 println "${programmingPoints} squared is ${square(programmingPoints)}"
 println "${programmingPoints} divided by 2 bonus points is ${divide(programmingPoints, 2)}"
