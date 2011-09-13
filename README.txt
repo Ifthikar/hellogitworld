@@ -1,6 +1,6 @@
 I WAS HERE!
 
-Me too :)
+Me 2 :)
 
 This is a sample project students can use during Matthew's Git class.
 
